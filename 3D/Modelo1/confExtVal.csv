@@ -1,0 +1,15 @@
+Input directory,/home/lqcapf-6/arquivos_joao/3D/Modelo1
+X matrix,Xsel.csv
+y matrix,y1.csv
+Test set,"4, 7, 9, 16, 24, 28, 33"
+Number of latent variables for the model,
+Output directory,/home/lqcapf-6/arquivos_joao/3D/Modelo1
+Output external validation file,ext_val.csv
+Output cross validation training set file,cv_ext_val.csv
+Output training set X matrix,Xtrain.csv
+Output training set y matrix,ytrain.csv
+Output test set X matrix,Xtest.csv
+Output test set y matrix,ytest.csv
+Autoscale,yes
+Lennard-Jones data transformation,yes
+Type of external validation,1

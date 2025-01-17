@@ -1,0 +1,3 @@
+%nprocshared=8
+%mem=1600MB
+#p b3lyp/cc-pvdz pop=(chelpg,readradii)
